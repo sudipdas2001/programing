@@ -1,5 +1,5 @@
 #!/bin/bash
-a=10
+a=0
 b=20
 if `expr $a > $b `
 then
